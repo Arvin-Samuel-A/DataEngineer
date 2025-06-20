@@ -34,6 +34,13 @@ Build a complete ETL pipeline that ingests, processes, and serves data via API. 
 - **`test_data_processor.py`** - Data processing function tests
 - **`conftest.py`** - Pytest configuration and fixtures
 
+### Root Files
+- **`requirements.txt`** - Python dependencies (PySpark, FastAPI, pytest, etc.)
+- **`README.md`** - Project documentation (this file)
+- **`submission.md`** - Your approach, decisions, and learnings summary
+- **`docker-compose.yml`** - Optional containerization setup
+- **`.gitignore`** - Files to exclude from git (venv/, __pycache__, etc.)
+
 ## 🚀 Getting Started
 
 1. **Setup Environment**
